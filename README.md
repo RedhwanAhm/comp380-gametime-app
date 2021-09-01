@@ -6,5 +6,5 @@ This project was an android app that looked to make setting up pick up games at 
 My contribution:
 I worked on the User Profile section and integrating the current logged in users data from the database. This was to construct all their stats from the events they attended.
 
-#To Run:
+# To Run:
 Simply import this project into Android studio and emulate it either on the phone or via the built-in emulator.
